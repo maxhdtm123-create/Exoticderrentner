@@ -1,9 +1,7 @@
-index.html
-<html lang="de">
+<!DOCTYPE html>
+<html>
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>StreamerName | Offizielle Website</title>
+  <title>Exoticderrentner | Offizielle Website</von Exoticderrentner>
   <meta name="description" content="Offizielle Website von StreamerName – Livestreams, Social Media, Merch & Community." />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
   <style>
@@ -17,7 +15,7 @@ index.html
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
 
-    body {
+    <body> {
       font-family: 'Inter', sans-serif;
       background: radial-gradient(circle at top, #1b1b2f, var(--bg));
       color: var(--text);
@@ -34,7 +32,7 @@ index.html
       padding: 2rem;
     }
 
-    header h1 {
+    header <h1> {
       font-size: clamp(3rem, 6vw, 5rem);
       font-weight: 800;
       margin-bottom: 1rem;
@@ -193,3 +191,4 @@ index.html
 </body>
 
 </html>
+
